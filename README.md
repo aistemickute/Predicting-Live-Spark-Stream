@@ -1,6 +1,6 @@
 # Project Description
 
-The main aim of this assignment was to build a model using Apache spark MLlib which could predict labels (“safe”, “unsafe” and “vandal”) for the incoming Wikipedia edits stream. 
+The main aim of this assignment was to build a model using Spark MLlib in Python which could predict labels (“safe”, “unsafe” and “vandal”) for the Wikipedia edits incoming through Spark stream in real-time. 
 
 ## Files
 
